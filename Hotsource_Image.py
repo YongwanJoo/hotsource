@@ -14,3 +14,4 @@ h, w, c = imageA.shape
 
 imageB = cv2.resize(imageB, (w, h))
 print(imageB.shape) 
+
